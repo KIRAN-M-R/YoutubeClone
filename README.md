@@ -1,3 +1,42 @@
+# Youtube Clone
+This is a clone app of Youtube made using React.js.
+
+
+This app make use of RapidApi (https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) for fetching youtube data.
+
+<br>
+<p align="center">New</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (144).png"></p>
+<br>
+<p align="center">Education</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (143).png"></p>
+<br>
+<p align="center">Channel Videos</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (145).png"></p>
+<br>
+<p align="center">Search Results</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (146).png"></p>
+<br>
+<br>
+<p align="center">Video Player</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (147).png"></p>
+<br>
+<p align="center">Channel Videos</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (148).png"></p>
+<br>
+<p align="center">Channel Pages</p>
+<p align="center"><img width="675" alt="Opening Menu" src="screenshots\Screenshot (149).png"></p>
+<br>
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
