@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YoutubeClone/static/css/main.7064deb2.css",
+    "main.js": "/YoutubeClone/static/js/main.6e92d8a0.js",
+    "index.html": "/YoutubeClone/index.html",
+    "main.7064deb2.css.map": "/YoutubeClone/static/css/main.7064deb2.css.map",
+    "main.6e92d8a0.js.map": "/YoutubeClone/static/js/main.6e92d8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.6e92d8a0.js"
+  ]
+}
